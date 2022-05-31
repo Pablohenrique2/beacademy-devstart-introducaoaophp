@@ -22,7 +22,7 @@ Repositório para armazenar exercícios de PHP propostos em aulas.
 
 [7. Tabela Produtos com Array Multidimensional ](./modulo1/aulas/aula26/tabela4.php)
 
-[8. Projeto: criação de uma agenda em PHP. ](./modulo1/projeto/index.php)
+[8. Projeto: criação de uma agenda em PHP. ](./modulo1/projeto/)
 
 ## Autor
 
