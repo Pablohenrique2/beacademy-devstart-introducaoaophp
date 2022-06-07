@@ -47,7 +47,7 @@ function excluir()
   foreach ($contatos as $cadaContatos) {
     fwrite($arquivo, $cadaContatos);
   }
-  echo "Contato exclido";
+  echo "Contato excluido";
 }
 function editar()
 {
